@@ -4,6 +4,8 @@ The mod "ra's Copy Clothing Colors" for the video game Project Zomboid. The Rela
 Release (steam): 26 Mar, 2025 <br>
 Last updated: 26 Mar, 2025
 
+Coding is in lua.
+
 The mod is only available for the unstable build 42 version of the game.
 
 When playing the game on steam, you can install the mod by simply subscribing to it on the workshop.
