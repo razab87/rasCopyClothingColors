@@ -1,8 +1,7 @@
 # rasCopyClothingColors
 The mod "ra's Copy Clothing Colors" for the video game Project Zomboid. The Relases section contains previous versions. See the mod's workshop page on steam for info about the mod's content: https://steamcommunity.com/sharedfiles/filedetails/?id=3452206197.
 
-Release (steam): 26 Mar, 2025 <br>
-Last updated: 26 Mar, 2025
+First release on steam: 26 Mar, 2025 <br>
 
 Coding is in lua.
 
