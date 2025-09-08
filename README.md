@@ -3,7 +3,7 @@ The mod "ra's Copy Clothing Colors" for the video game Project Zomboid. The Rela
 
 First release on steam: 26 Mar, 2025 <br>
 
-Tech: Coding is in lua.
+Tech: Coding is in lua. Implements a small new feature and thereby introduces a new UI element.
 
 The mod is only available for the most recent build 42 version of the game.
 
