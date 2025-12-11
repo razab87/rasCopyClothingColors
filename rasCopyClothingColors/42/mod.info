@@ -1,0 +1,8 @@
+name=ra's Copy Clothing Colors
+id=rasCopyClothingColors
+poster=rasCopyClothingColors_poster.png
+icon=rasIcon.png
+description=Copy colors between clothing items during character customisation.
+author=razab
+modversion=1.1
+versionMin=42.6.0
