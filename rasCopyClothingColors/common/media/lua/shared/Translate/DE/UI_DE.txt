@@ -1,0 +1,7 @@
+UI_EN = {
+    
+    UI_rasCopyColor_Copy = "Kopieren",
+    UI_rasCopyColor_Paste = "Einfügen",
+    UI_rasCopyColor_NoColorSaved = "Keien Farbe gespeichert. Klick auf "Kopieren", um die gewählte Farbe zu speichern." 
+    
+}

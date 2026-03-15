@@ -1,0 +1,7 @@
+UI_EN = {
+    
+    UI_rasCopyColor_Copy = "Copy",
+    UI_rasCopyColor_Paste = "Paste",
+    UI_rasCopyColor_NoColorSaved = "No color profile saved. Use the "Copy" button to save a color." 
+    
+}
